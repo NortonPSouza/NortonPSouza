@@ -1,17 +1,11 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HectorFront.HectorFront)
-![](https://img.shields.io/github/followers/HectorFront?label=Follow&style=social)
-
 <b>Redes socias</b>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/norton-souza-9703b1a5/)
 [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hectin_silva/)](https://www.instagram.com/nortonperantoni/)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hectddos103@gmail.com)](mailto:nortonperantoni@gmail.com)
 
 <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="42px" width="42px">
-&nbsp;Mid Front-end Engineer at FullCam & Founder
-Mexpenses&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="auto"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="auto"/></a>
-&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="auto"/></a>
+&nbsp;Mid Front-end Engineer at FullCam 
 </h3>
 
 <hr/>
@@ -21,54 +15,9 @@ Mexpenses&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NortonPSouza&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
 
 <div align="center">
-  <a href="https://github.com/hectorfront">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NortonPSouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NortonPSouza&layout=compact&langs_count=7&theme=github_dark&cache_seconds=1800"/>
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NortonPSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NortonPSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-```javascript
-import {memo} from 'react';
-import {render} from "react-dom";
-
-const AboutMe = memo(() => {
-    const description = `
-    • Arquiteturas
-    • Refatorações
-    • Lading Pages
-    • Novas features
-    • Correções de bugs
-    • Revisão de código
-    • Deploy AWS CLI
-
-    Atuando com experiência em um produto onde possui gestão de imagens Ao Vivo,
-    Gravações e Eventos através das nossas timelines de fácil manuseio, onde é possível
-    ter possibilidades infinitas de flexibilizar a segurança em monitoramento de ponta a
-    ponta em uma determinada região. Que por sua vez abrange outras funcionalidades
-    através da nossa IA (Inteligência Artificial) para Detecções de pessoas, Animais,
-    Veículos, Leitura de Placa, delimitar Área de detecção/Colisão e muito mais. O
-    produto FullCam continua com a mesma tecnologia de ponta, mas com o diferencial de
-    ser 100% customizável, desde a aparência da plataforma até o local de armazenamento.
-    Através da versão inovadora HÍBRIDA, pode-se armazenar as imagens em Servidores 
-    Locais ou na Nuvem (Amazon Web Services) de preferência do cliente.
-
-    Mais informações: https://fullcam.me
-  `;
-    return (
-        <h1 className="title">Meu trabalho</h1>
-    <p className="about-content">{description}</p>
-)
-    ;
-}, (_prevProps, _nextProps) => {
-    return true;
-});
-
-// render(<AboutMe/>,document.getElementById('hector_silva'));
-```
-
-<p dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/ibrahimcesar/ibrahimcesar/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/ibrahimcesar/ibrahimcesar/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
-</p>
 
 <h3 align="left">APIs • Linguagens • Ferramentas • Estudos:</h3>
 <p align="left" dir="auto">
