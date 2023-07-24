@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nortonperantoni@gmail.com)](mailto:nortonperantoni@gmail.com)
 
 <h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="42px" width="42px">
-&nbsp;Mid Front-end Engineer at FullCam
+&nbsp;Mid Front-end Engineer | React
 </h3>
 
 <hr/>
