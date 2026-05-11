@@ -1,24 +1,21 @@
 # Olá, eu sou o Norton Souza! 🐘🚀
 
-### Backend Engineer | PHP & Distributed Systems Enthusiast 
-"Transformando café em microsserviços e garantindo que a fila do RabbitMQ nunca chegue no limite."
+### Backend Engineer | PHP & Distributed Systems Specialist 
+"Escalando aplicações com Symfony, gerenciando filas e garantindo que o Redis nunca fique sem memória."
 
 ---
 
-## 🛠️ My Digital Workshop (Backend Focus)
+## 🛠️ Stack & Infrastructure (Core Backend)
 
 ### 🐘 The PHP Powerhouse
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 
-### ⚡ Infrastructure & Performance
+### ⚡ Distributed Systems & Data
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 My Coding Journey (GitHub Real-Time)
+## 📊 System Performance (GitHub Real-Time)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NortonPSouza&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="Norton's GitHub Stats" />
@@ -32,13 +29,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NortonPSouza&theme=radical&layout=compact&hide=javascript,typescript,html,css" alt="Top Languages" />
 </p>
 
+> [!IMPORTANT]
+> **Relatório de Atividade:** Foco atual em arquitetura de microsserviços, refatoração de sistemas legados e implementação de mensageria assíncrona.
+
 ---
 
-## 🕹️ Off-Duty Mode
-Quando não estou depurando filas no RabbitMQ ou otimizando queries:
-- 🧙‍♂️ Criando backstories épicas para campanhas de **RPG de Mesa**.
-- 🌌 Explorando sistemas estelares ou masmorras em **Oblivion**.
-- 🃏 Estudando o simbolismo do **Tarô** e a energia dos cristais.
+## 🎲 Off-Duty Mode: Crits & Draws
+Quando o servidor está estável e as filas estão vazias:
+*   **TTRPG Master/Player:** Criando narrativas complexas e explorando mundos de Dark Fantasy (Alguém disse *Alistar Draken*?).
+*   **TCG Enthusiast:** Estratégia fora das telas com Card Games colecionáveis.
 
 ---
 
@@ -46,5 +45,5 @@ Quando não estou depurando filas no RabbitMQ ou otimizando queries:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nortonsouza)
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=NortonPSouza&icon=2&color=12" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=NortonPSouza&icon=5&color=12" alt="Visit Count" />
 </p>
