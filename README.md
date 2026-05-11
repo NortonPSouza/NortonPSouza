@@ -34,13 +34,6 @@
 
 ---
 
-## 🎲 Off-Duty Mode: Crits & Draws
-Quando o servidor está estável e as filas estão vazias:
-*   **TTRPG Master/Player:** Criando narrativas complexas e explorando mundos de Dark Fantasy (Alguém disse *Alistar Draken*?).
-*   **TCG Enthusiast:** Estratégia fora das telas com Card Games colecionáveis.
-
----
-
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nortonsouza)
 
