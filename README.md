@@ -1,44 +1,50 @@
-# Olá, eu sou o Norton Souza 👋
+# Olá, eu sou o Norton Souza! 🐘🚀
 
-### Backend Developer | Software Architecture Enthusiast
-
-Sou um desenvolvedor focado na construção de sistemas robustos, escaláveis e eficientes. Atualmente, dedico meus estudos a padrões de arquitetura, otimização de performance em APIs e segurança de dados.
-
----
-
-## 🛠️ Tech Stack (Core Backend)
-
-**Linguagens & Frameworks:**
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) **PHP** (Symfony)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) **Node.js** (Express, NestJS)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) **JavaScript / TypeScript**
-
-**Bancos de Dados & Infra:**
-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) **MySQL / PostgreSQL**
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) **MongoDB**
-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) **CI/CD & Versionamento**
-- ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) **Autenticação & Segurança**
+### Backend Engineer | PHP & Distributed Systems Enthusiast 
+"Transformando café em microsserviços e garantindo que a fila do RabbitMQ nunca chegue no limite."
 
 ---
 
-## 📈 Impacto e Performance
+## 🛠️ My Digital Workshop (Backend Focus)
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NortonPSouza&theme=dark&show_icons=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-</div>
+### 🐘 The PHP Powerhouse
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
 
-<br/>
+### ⚡ Infrastructure & Performance
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NortonPSouza&theme=dark&layout=compact&hide=react,css,html" alt="Linguagens mais usadas" />
-</div>
+### ⚙️ DevOps & Tools
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🧠 No que estou trabalhando/estudando:
-- **Design Patterns:** Aplicando SOLID e Clean Architecture para códigos mais manuteníveis.
-- **Sistemas de Alta Disponibilidade:** Otimização de queries e uso de cache.
-- **Modelagem de Dados:** Estruturação de bancos relacionais e não-relacionais para sistemas complexos.
+## 📊 My Coding Journey (GitHub Real-Time)
 
-## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nortonsouza)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NortonPSouza&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="Norton's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NortonPSouza&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NortonPSouza&theme=radical&layout=compact&hide=javascript,typescript,html,css" alt="Top Languages" />
+</p>
+
+---
+
+## 🕹️ Off-Duty Mode
+Quando não estou depurando filas no RabbitMQ ou otimizando queries:
+- 🧙‍♂️ Criando backstories épicas para campanhas de **RPG de Mesa**.
+- 🌌 Explorando sistemas estelares ou masmorras em **Oblivion**.
+- 🃏 Estudando o simbolismo do **Tarô** e a energia dos cristais.
+
+---
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nortonsouza)
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=NortonPSouza&icon=2&color=12" alt="Visit Count" />
+</p>
